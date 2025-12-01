@@ -1,0 +1,7 @@
+lora_venv/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.safetensors
+*.pth
